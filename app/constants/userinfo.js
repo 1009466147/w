@@ -1,0 +1,4 @@
+export const USERINFO_UPDATE = 'USERINFO_UPDATE'
+/*reducer demo*/
+export const USERINFO_LOGIN = 'SERINFO_LOGIN'
+export const USERINFO_CITYNAME ='USERINFO_CITYNAME'
